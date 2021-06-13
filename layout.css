@@ -8,7 +8,7 @@
 	margin:0 auto;
 }
 header{
-	background-image: url(image3.jpeg width:950 height:200);
+	background-image: url(image3.jpeg width="950" height="200");
     	background-position: left top;
     	background-repeat: no-repeat;
 	height:200px;
